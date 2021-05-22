@@ -9,3 +9,10 @@ concurrently and not sequentially. The approach makes use of CUDA as a GPU platf
 advantage of all the available cores. In this project, computing performance of some common Image 
 Processing operations are going to be implemented on python's inbuilt library OpenCV and compared 
 to GPU functions that use CUDA.
+
+Team Members:
+Daksh Mehta     E18CSE043
+Manan Negi      E18CSE100
+Kanishka Pandey E18CSE083
+Shivaye Bahl    E18CSE223
+Mohil Nagpal    E18CSE106
